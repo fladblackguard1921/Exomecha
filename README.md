@@ -196,4 +196,4 @@ This repository serves as the official landing page for ExoMecha. The software i
 **Get the most recent version of ExoMecha today!**
 
 ---
-**Last updated:** 2026-11-10 17:33:36 UTC
+**Last updated:** 2026-11-10 22:58:41 UTC
